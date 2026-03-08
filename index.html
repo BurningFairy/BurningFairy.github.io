@@ -12,7 +12,6 @@ exclude: true
 
   <header class="hero">
     <h1 class="hero-title">{{ site.description }}</h1>
-    {% include core/share.html %}
     {% if page.image %}
       <div class="hero-image" style="background-image: url('{{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/{{ page.ref }}.jpg'); background-image: -webkit-image-set( url('{{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/{{ page.ref }}.jpg') 1x, url('{{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/{{ page.ref }}-large.jpg') 2x )"></div>
     {% endif %}
@@ -23,7 +22,7 @@ exclude: true
     <article>
       <h3 class="section-header">This site was made as a school project.</h3>
       <p class="section-body">The project has the following requirements:<br>
-      - The page must be deployed automatically upon `git push`<br>
+      - The page must be deployed automatically upon 'git push'<br>
       - You must have at least three distinct pages, linked to each other<br>
       - Use syntax highlighting for at least one small code example<br>
       - Add a local image and show it embedded in a page<br>
