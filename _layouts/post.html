@@ -18,7 +18,7 @@ font: serif
     <aside class="content-author">
       {% if page.author %}
         <a {% if page.author.url %}href="{{ page.author.url }}"{% endif %} target="_blank" rel="noopener noreferrer" aria-label="Follow @{{ page.author.url }} on url.">
-          <div class="author-image" style="background-image: url('{{ site.baseurl }}{{ site.assets }}{{ site.images }}/authors/{{ page.author.image }}-small.jpg')"></div>
+          <div class="author-image" style="background-image: url('{{ site.baseurl }}{{ site.assets }}{{ site.images }}/authors/{{ page.author.image }}.png')"></div>
         </a>
         <div class="author-text">
           <h4><a {% if page.author.url %}href="{{ page.author.url }}"{% endif %} target="_blank" rel="noopener noreferrer" aria-label="Follow @{{ page.author.url }} on url.">{{ page.author.name }}</a></h4>
