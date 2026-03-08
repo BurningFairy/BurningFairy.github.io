@@ -35,36 +35,36 @@ compress_html:
   comments: all
 
 # Site meta
-title: 'Autumn'
-tagline: 'Embrace change.'
-description: 'Autumn is a minimalist Jekyll theme made by <a href="https://connorbaer.co/" target="_blank" rel="noopener noreferrer">Connor</a>.'
-keywords: 'connor, baer, bear, designer, developer, traveller, design, code, jekyll, autumn, theme, for hire'
+title: 'Fairyland'
+tagline: 'Believe in Magic.'
+description: 'Welcome to Fairyland! A place full of heroic git commits and mythical code-bugs!'
+keywords: 'github, jekyll, fairyĺand'
 url: https://burningfairy.github.io
 baseurl: ""
 assets: /assets
 images: /images
-image: index-large.jpg
+image: rosa_sunny_banner.jpg
 logo: /assets/icons/apple-icon-144x144.png
 dark_theme: false
 
 author:
-  name: Connor Bär
-  bio: Hi, I'm Connor, the author of this blog. Nice to meet you!
-  image: author
-  url: https://connorbaer.co
-  email: hello@connorbaer.co
-  twitter: connor_baer
+  name: Burning Fairy
+  bio: Hi, I am Fairy. Welcome to Fairyland!
+  image:
+  url:
+  email: irina.karner@outlook.at
+  twitter:
 
 social:
-  twitter: https://twitter.com/connor_baer
-  instagram: https://instagram.com/connor_baer
-  github: https://github.com/connor-baer/autumn
-  medium: https://medium.com/@connor_baer
+  twitter:
+  instagram:
+  github: https://github.com/burningfairy
+  medium:
 
 version: 4.0.0
 
 github:
-  repo: https://github.com/connor-baer/autumn
+  repo: https://github.com/burningfairy/burningfairy.github.io
 
 # Integrations
 # typekit:              fcv7rfe
@@ -79,4 +79,4 @@ google_analytics_key: UA-94021817-2
 excerpt_separator: <!-- Read more -->
 
 navigation:
-  GitHub: https://github.com/connor-baer/autumn
+  GitHub: https://github.com/burningfairy
