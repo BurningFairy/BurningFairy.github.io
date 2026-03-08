@@ -2,7 +2,7 @@
 layout: post
 lang: en
 ref: sunflowersMyth
-title: Japanese Maple
+title: Sunflowers In Greek Mythology
 image: true
 ---
 
