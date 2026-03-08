@@ -43,7 +43,7 @@ url: https://burningfairy.github.io
 baseurl: ""
 assets: /assets
 images: /images
-image: rosa_sunny_banner.jpg
+image: /images/posts/rosa_sunny_banner.jpg
 logo: /assets/icons/apple-icon-144x144.png
 dark_theme: false
 
