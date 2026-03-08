@@ -6,17 +6,29 @@ lang: en
 ref: about
 ---
 
-> Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+> Welcome to Fairyland!
 
-## Setup
+## How to set this page up
 
-Some fun facts about the setup of this project include:
+1) Create a new github repository named “youruser.github.io”
+2) Search for a Jekyll theme you want to use
+3) Open the git-repository of your chosen theme and download the zipped repo
+4) Unzip the folder. In Linux use 
+“””
+unzip foldername.zip
+“””
+5) Move the contents of the unzipped folder into the root of your github pages repository
+6) In the “_config.yml” file change the url-attribute to: https://youruser.github.io, and the baseurl-attribute to “”.
+7) Push all the new files and changed you’ve made to your repository. Use the following commands:
+“””
+git add .
+“””
+“””
+git commit -m “added Jekyll theme”
+“””
+“””
+git push
+“””
 
-- Built for [Jekyll](http://jekyllrb.com)
-- Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-- Coded with [Atom](https://atom.io), an amazing code editor
-- Designed and developed while listening to music like [Ludovico Einaudi](https://open.spotify.com/track/6sVuwzZ4MPsviUE8wfw2n1)
+Your site works now with your chosen theme. You can personalize it and change it’s content however you like!
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/connor-baer/autumn/issues/new) or [ask me on Twitter](https://twitter.com/connor_baer).
-
-Thanks for reading!
