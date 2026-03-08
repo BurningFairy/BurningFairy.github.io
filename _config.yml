@@ -39,8 +39,8 @@ title: 'Autumn'
 tagline: 'Embrace change.'
 description: 'Autumn is a minimalist Jekyll theme made by <a href="https://connorbaer.co/" target="_blank" rel="noopener noreferrer">Connor</a>.'
 keywords: 'connor, baer, bear, designer, developer, traveller, design, code, jekyll, autumn, theme, for hire'
-url: https://connor-baer.github.io
-baseurl: /autumn
+url: https://burningfairy.github.io
+baseurl: /burningfairy.github.io
 assets: /assets
 images: /images
 image: index-large.jpg
