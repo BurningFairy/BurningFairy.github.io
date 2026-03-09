@@ -12,6 +12,7 @@ ref: about
 
 1) Create a new github repository named “youruser.github.io”. \
 2) Search for a Jekyll theme you want to use. \
+(This website uses the theme "Autumn" by Connor Bär, check out a few of his other themes via the links in the footer!)
 3) Open the git-repository of your chosen theme and download the zipped repo. \
 4) Unzip the folder. In Linux use: 
 ``` bash
@@ -19,8 +20,8 @@ unzip foldername.zip
 ``` 
 \
 5) Move the contents of the unzipped folder into the root of your github pages repository. \
-6) In the “_config.yml” file change the url-attribute to: https://youruser.github.io, and the baseurl-attribute to “”. \
-7) Push all the new files and changed you’ve made to your repository. Use the following commands: 
+6) In the _config.yml file change the url-attribute to: https://youruser.github.io, and the baseurl-attribute to “”. \
+7) Push all the new files and changes you’ve made to your repository. Use the following commands: 
 ``` bash
 git add .
 ```
@@ -31,5 +32,5 @@ git commit -m “added Jekyll theme”
 git push
 ```
 
-Your site works now with your chosen theme. You can personalize it and change it’s content however you like!
+Your site now works with your chosen theme. You can personalize it and change it’s content however you like!
 
