@@ -12,7 +12,7 @@ ref: about
 
 1) Create a new github repository named “youruser.github.io”. \
 2) Search for a Jekyll theme you want to use. \
-(This website uses the theme "Autumn" by Connor Bär, check out a few of his other themes via the links in the footer!)
+(This website uses the theme "Autumn" by Connor Bär, check out a few of his other themes via the links in the footer!) \
 3) Open the git-repository of your chosen theme and download the zipped repo. \
 4) Unzip the folder. In Linux use: 
 ``` bash
